@@ -1,0 +1,55 @@
+Script started on 2020-10-11 15:32:44-06:00
+]0;jeremy.kimotho@csa1:~/Desktop/Assignment_2jeremy.kimotho@csa1:~/Desktop/Assignment_2$ exit./assign2a[Kb
+Enter an integer: 5
+You have entered value 5
+
+The number of occurences is: 3
+The number of occurences is: 7
+The number of occurences is: 1
+The number of occurences is: 5
+The number of occurences is: 9
+
+The document size is 25
+The lowest frequency is 4%
+The highest frequency is 36%
+]0;jeremy.kimotho@csa1:~/Desktop/Assignment_2jeremy.kimotho@csa1:~/Desktop/Assignment_2$ ./assign2b
+Enter an integer: 20
+You have entered value 20
+
+The number of occurences is: 9
+The number of occurences is: 4
+The number of occurences is: 7
+The number of occurences is: 7
+The number of occurences is: 3
+The number of occurences is: 8
+The number of occurences is: 9
+The number of occurences is: 9
+The number of occurences is: 3
+The number of occurences is: 7
+The number of occurences is: 4
+The number of occurences is: 1
+The number of occurences is: 1
+The number of occurences is: 6
+The number of occurences is: 3
+The number of occurences is: 8
+The number of occurences is: 7
+The number of occurences is: 0
+The number of occurences is: 1
+The number of occurences is: 8
+
+The document size is 105
+The lowest frequency is 0%
+The highest frequency is 8%
+]0;jeremy.kimotho@csa1:~/Desktop/Assignment_2jeremy.kimotho@csa1:~/Desktop/Assignment_2$ ./assign2b
+Enter an integer: 4
+The value you entered is invalid. Please enter an integer value between 5 and 20
+]0;jeremy.kimotho@csa1:~/Desktop/Assignment_2jeremy.kimotho@csa1:~/Desktop/Assignment_2$ ./assign2b
+Enter an integer: 21
+The value you entered is invalid. Please enter an integer value between 5 and 20
+]0;jeremy.kimotho@csa1:~/Desktop/Assignment_2jeremy.kimotho@csa1:~/Desktop/Assignment_2$ ./assign2b
+Enter an integer: g
+The value you entered is invalid. Please enter an integer value between 5 and 20
+]0;jeremy.kimotho@csa1:~/Desktop/Assignment_2jeremy.kimotho@csa1:~/Desktop/Assignment_2$ exit
+exit
+
+Script done on 2020-10-11 15:33:16-06:00

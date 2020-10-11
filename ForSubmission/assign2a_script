@@ -1,0 +1,55 @@
+Script started on 2020-10-11 15:31:14-06:00
+]0;jeremy.kimotho@csa1:~/Desktop/Assignment_2jeremy.kimotho@csa1:~/Desktop/Assignment_2$ exit./assign2a
+Enter an integer: 5
+You have entered value 5
+
+The number of occurences is: 7
+The number of occurences is: 6
+The number of occurences is: 7
+The number of occurences is: 4
+The number of occurences is: 1
+
+The document size is 25
+The lowest frequency is 4%
+The highest frequency is 28%
+]0;jeremy.kimotho@csa1:~/Desktop/Assignment_2jeremy.kimotho@csa1:~/Desktop/Assignment_2$ ./assign2a
+Enter an integer: 20
+You have entered value 20
+
+The number of occurences is: 7
+The number of occurences is: 4
+The number of occurences is: 2
+The number of occurences is: 1
+The number of occurences is: 9
+The number of occurences is: 6
+The number of occurences is: 2
+The number of occurences is: 1
+The number of occurences is: 8
+The number of occurences is: 2
+The number of occurences is: 2
+The number of occurences is: 0
+The number of occurences is: 3
+The number of occurences is: 3
+The number of occurences is: 5
+The number of occurences is: 6
+The number of occurences is: 8
+The number of occurences is: 6
+The number of occurences is: 6
+The number of occurences is: 6
+
+The document size is 87
+The lowest frequency is 0%
+The highest frequency is 10%
+]0;jeremy.kimotho@csa1:~/Desktop/Assignment_2jeremy.kimotho@csa1:~/Desktop/Assignment_2$ ./assign2a
+Enter an integer: 4
+The value you entered is invalid. Please enter an integer value between 5 and 20
+]0;jeremy.kimotho@csa1:~/Desktop/Assignment_2jeremy.kimotho@csa1:~/Desktop/Assignment_2$ ./assign2a
+Enter an integer: 21
+The value you entered is invalid. Please enter an integer value between 5 and 20
+]0;jeremy.kimotho@csa1:~/Desktop/Assignment_2jeremy.kimotho@csa1:~/Desktop/Assignment_2$ ./assign2a
+Enter an integer: h
+The value you entered is invalid. Please enter an integer value between 5 and 20
+]0;jeremy.kimotho@csa1:~/Desktop/Assignment_2jeremy.kimotho@csa1:~/Desktop/Assignment_2$ exit
+exit
+
+Script done on 2020-10-11 15:31:52-06:00
